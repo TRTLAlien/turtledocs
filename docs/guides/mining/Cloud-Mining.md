@@ -81,7 +81,7 @@ Enter `0`, if you are like most people, and do not need to remotely check your h
 If you do need to, then enter a port number. 
 Let's take the port number as `0101` and your IP address as `26.24.105.14` as an example.
 
-To check the hashrate, enter in the address bar of your web browser, `<26.24.105.14>:<0101>`. It should show a page with your rig's hashrate.
+To check the hashrate, enter the address bar of your web browser, `<26.24.105.14>:<0101>`. It should show a page with your rig's hashrate.
 If you are checking from the same IP address, you can alternatively enter, `localhost:<0101>`
 
 Make sure to enter your own IP address if you enable this feature. You can choose any port you want!
